@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 # Filename : 04-random.py
-# author by : （学员ID)
+# author by : （Monika)
 
 # 目的:
 # 掌握随机的概念

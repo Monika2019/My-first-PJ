@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 # Filename : 03-summation.py
-# author by : （学员ID)
+# author by : （Monika)
 
 # 目的:
 # 掌握基本的赋值，加减乘除运算，输入及输出方法
